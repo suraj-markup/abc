@@ -6,7 +6,7 @@ import book1 from "../assets/book1.png";
 import book2 from "../assets/book2.png";
 import book3 from "../assets/book3.png";
 import book4 from "../assets/book4.png";
-import Circle from "../assets/circle";
+import Circle from "../assets/Circle";
 import blog1 from "../assets/blog1.png";
 import blog2 from "../assets/blog2.png";
 import blog3 from "../assets/blog3.png";
