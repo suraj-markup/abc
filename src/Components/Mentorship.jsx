@@ -1,5 +1,5 @@
 import mentor from "../assets/mentor.png";
-import Circle from "../assets/circle";
+import Circle from "../assets/Circle";
 
 const Mentorship = () => {
   return (
