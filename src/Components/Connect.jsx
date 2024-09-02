@@ -1,6 +1,6 @@
 import connect from "../assets/connect.png";
 import { Linkedin, Mail } from "../assets/Connect";
-import Circle from "../assets/circle";
+import Circle from "../assets/Circle";
 const Connect = () => {
   return (
     <div className="lg:pb-64">
