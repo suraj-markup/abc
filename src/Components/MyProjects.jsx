@@ -4,7 +4,7 @@ import image3 from "../assets/image3.png";
 import image4 from "../assets/image4.png";
 import image5 from "../assets/image5.png";
 import image6 from "../assets/image6.png";
-import Circle from "../assets/circle";
+import Circle from "../assets/Circle";
 import { Link } from "react-router-dom";
 
 const MyProjects = () => {
